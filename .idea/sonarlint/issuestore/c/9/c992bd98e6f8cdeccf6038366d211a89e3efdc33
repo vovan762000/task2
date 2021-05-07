@@ -1,0 +1,19 @@
+
+P
+java:S1121x".Extract the assignment out of this expression.(‚»¬şúÿÿÿÿ8éº‰Î/
+Y
+java:S1854+"<Remove this useless assignment to local variable "oldValue".(¹ÿÈ’8µ“–Î/
+Q
+java:S1121’".Extract the assignment out of this expression.(ùÊ¦øÿÿÿÿ8„ÚÎ/
+P
+java:S1121z".Extract the assignment out of this expression.(­ëºÅúÿÿÿÿ8éº‰Î/
+]
+java:S1161”":Add the "@Override" annotation above this method signature(¦³üëûÿÿÿÿ8ú†Ï/
+b
+java:S1117"?Rename "elementData" which hides the field declared at line 15.(ˆÑÄàüÿÿÿÿ8„ÚÎ/
+V
+java:S1117¦"8Rename "size" which hides the field declared at line 13.(¾ú²Ñ8ú†Ï/
+K
+java:S1121T".Extract the assignment out of this expression.(¬ƒÅÇ8ÀÃÎ/
+J
+java:S1481+"-Remove this unused "oldValue" local variable.(¹ÿÈ’8µ“–Î/

@@ -1,6 +1,5 @@
 package ua.nure.bondarenko.task2.part2;
 
-import javax.naming.OperationNotSupportedException;
 import java.util.Iterator;
 import java.util.NoSuchElementException;
 
@@ -111,8 +110,8 @@ public class ListImpl<E> implements List<E> {
 
     @Override
     public void clear() {
-        for (ListImpl.Node<E> x = first; x != null; ) {
-            ListImpl.Node<E> next = x.next;
+        for (Node<E> x = first; x != null; ) {
+            Node<E> next = x.next;
             x.item = null;
             x.next = null;
             x.prev = null;
@@ -215,9 +214,9 @@ public class ListImpl<E> implements List<E> {
         }
 
         public void remove() {
-          if (hasNext()){
-              ListImpl.this.remove(next());
-          }
+            if (hasNext()) {
+                ListImpl.this.remove(next());
+            }
         }
     }
 
