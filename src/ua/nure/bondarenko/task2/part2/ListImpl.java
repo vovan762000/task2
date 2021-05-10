@@ -143,7 +143,7 @@ public class ListImpl<E> implements List<E> {
         }
     }
 
-    private E unlinkFirst(ListImpl.Node<E> f) {
+    private E unlinkFirst(Node<E> f) {
         final E element = f.item;
         final Node<E> next = f.next;
         f.item = null;
@@ -157,7 +157,7 @@ public class ListImpl<E> implements List<E> {
         return element;
     }
 
-    private E unlinkLast(ListImpl.Node<E> l) {
+    private E unlinkLast(Node<E> l) {
         final E element = l.item;
         final Node<E> prev = l.prev;
         l.item = null;
@@ -171,7 +171,7 @@ public class ListImpl<E> implements List<E> {
         return element;
     }
 
-    private E unlink(ListImpl.Node<E> x) {
+    private E unlink(Node<E> x) {
         final E element = x.item;
         final Node<E> next = x.next;
         final Node<E> prev = x.prev;

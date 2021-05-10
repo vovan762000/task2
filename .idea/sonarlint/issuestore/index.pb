@@ -24,3 +24,9 @@ a
 1src/ua/nure/bondarenko/task2/part3/QueueImpl.java,2\3\23643c7c16846f922176c0ea663cecaec48e7602
 ]
 -src/ua/nure/bondarenko/task2/part3/Part3.java,9\b\9bd80282a42ad0b2fc57744f8555a17b941c1cce
+]
+-src/ua/nure/bondarenko/task2/part4/Stack.java,7\1\716b028d4d8bb9ee652130f282788de224bcd101
+a
+1src/ua/nure/bondarenko/task2/part4/StackImpl.java,e\1\e196663d26faccbe4526418494245d387df3c7db
+]
+-src/ua/nure/bondarenko/task2/part4/Part4.java,5\9\590091bbdde2416040ac62a2bf6801332c04d597
