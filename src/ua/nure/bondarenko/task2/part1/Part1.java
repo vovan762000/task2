@@ -5,7 +5,7 @@ import java.util.Iterator;
 public class Part1 {
     private static Array<Integer> integerArray = new ArrayImpl<>();
 
-    public static void main(String[] args) {
+    public static void demo() {
         integerArray.add(1);
         integerArray.add(2);
         integerArray.add(3);
@@ -25,5 +25,9 @@ public class Part1 {
         System.out.println(integerArray.indexOf(1));
         integerArray.clear();
         System.out.println(integerArray);
+    }
+
+    public static void main(String[] args) {
+        demo();
     }
 }

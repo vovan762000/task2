@@ -30,3 +30,5 @@ a
 1src/ua/nure/bondarenko/task2/part4/StackImpl.java,e\1\e196663d26faccbe4526418494245d387df3c7db
 ]
 -src/ua/nure/bondarenko/task2/part4/Part4.java,5\9\590091bbdde2416040ac62a2bf6801332c04d597
+V
+&src/ua/nure/bondarenko/task2/Demo.java,b\b\bbe5cc414686dbe17e4d8eddc3cb24abd0abfd91

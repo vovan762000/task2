@@ -1,16 +1,16 @@
 
-y	java:S1275"XRefactor the code in order to not assign to this loop counter from within the loop body.(ïßóùøÿÿÿÿ8Ãâ‡Ä”/
-Q
-java:S3740"/Provide the parametrized type for this generic.(£Ÿ¤¶ÿÿÿÿÿ8µßÂ”/
-\
-java:S1161m":Add the "@Override" annotation above this method signature(¦³üëûÿÿÿÿ8ÖñÇÃ”/
-Q
-java:S3740V"/Provide the parametrized type for this generic.(·à»œşÿÿÿÿ8µßÂ”/
-L
-java:S3740H"/Provide the parametrized type for this generic.(Õ¬·8µßÂ”/
 Q
 java:S3740R"/Provide the parametrized type for this generic.(÷üû„üÿÿÿÿ8µßÂ”/
 p
 java:S2272c"NAdd a "NoSuchElementException" for iteration beyond the end of the collection.(¤¿ğßıÿÿÿÿ8ÖñÇÃ”/
+\
+java:S1161m":Add the "@Override" annotation above this method signature(¦³üëûÿÿÿÿ8ÖñÇÃ”/
+y	java:S1275"XRefactor the code in order to not assign to this loop counter from within the loop body.(ïßóùøÿÿÿÿ8Ãâ‡Ä”/
+L
+java:S3740H"/Provide the parametrized type for this generic.(Õ¬·8µßÂ”/
+Q
+java:S3740V"/Provide the parametrized type for this generic.(·à»œşÿÿÿÿ8µßÂ”/
+Q
+java:S3740"/Provide the parametrized type for this generic.(£Ÿ¤¶ÿÿÿÿÿ8µßÂ”/
 Q
 java:S3740"/Provide the parametrized type for this generic.(£Ÿ¤¶ÿÿÿÿÿ8µßÂ”/
