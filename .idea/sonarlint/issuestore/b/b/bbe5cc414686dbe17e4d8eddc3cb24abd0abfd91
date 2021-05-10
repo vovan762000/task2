@@ -1,0 +1,23 @@
+
+[
+java:S1128"@Remove this unused import 'ua.nure.bondarenko.task2.part2.List'.(æû8æ¨Ä½•/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(æåÄƒùÿÿÿÿ8ÿĞÅ½•/
+c
+java:S1128"ARemove this unused import 'ua.nure.bondarenko.task2.part3.Queue'.(¿ôå¼ıÿÿÿÿ8æ¨Ä½•/
+L
+java:S1128"/Remove this unused import 'java.util.Iterator'.(¥ÍòÕ8²îÄ½•/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(íù•˜8íúÃ½•/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8ŒÆ½•/
+g
+java:S1128"ERemove this unused import 'ua.nure.bondarenko.task2.part4.StackImpl'.(¯€×ùÿÿÿÿ8æ¨Ä½•/
+c
+java:S1128"ARemove this unused import 'ua.nure.bondarenko.task2.part1.Array'.(ƒ£’Šÿÿÿÿÿ8æ¨Ä½•/
+b
+java:S1128"ERemove this unused import 'ua.nure.bondarenko.task2.part1.ArrayImpl'.(‡Üüº8æ¨Ä½•/
+b
+java:S1128	"ERemove this unused import 'ua.nure.bondarenko.task2.part3.QueueImpl'.(×©®Õ8æ¨Ä½•/
+f
+java:S1128"DRemove this unused import 'ua.nure.bondarenko.task2.part2.ListImpl'.(¢•¸úÿÿÿÿ8æ¨Ä½•/
+^
+java:S1128
+"ARemove this unused import 'ua.nure.bondarenko.task2.part4.Stack'.(Æûé‰8æ¨Ä½•/
